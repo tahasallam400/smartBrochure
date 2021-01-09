@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "smartBrochure/DataLayer/API/Parser/CorporationParser.swift"
+            timestampString = "546700881.6008331"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CorporationParser"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "smartBrochure.CorporationParser.Id.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "smartBrochure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tahaabdelrahman/Desktop/smartBrochure/smartBrochure/DataLayer/API/Parser/CorporationParser.swift"
+                  timestampString = "546727526.3665299"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "smartBrochure.CorporationParser.Id.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "smartBrochure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tahaabdelrahman/Desktop/smartBrochure/smartBrochure/DataLayer/API/Parser/CorporationParser.swift"
+                  timestampString = "546727526.4006211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "smartBrochure.CorporationParser.init(json: SwiftyJSON.JSON) -&gt; smartBrochure.CorporationParser"
+                  moduleName = "smartBrochure"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tahaabdelrahman/Desktop/smartBrochure/smartBrochure/DataLayer/API/Parser/CorporationParser.swift"
+                  timestampString = "546727526.434918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
